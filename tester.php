@@ -24,9 +24,8 @@
 </head>
 <body>
 
-<a href="#">farts</a>
+
 
 <script src="/testing.js"></script>
-
 </body>
 </html>
